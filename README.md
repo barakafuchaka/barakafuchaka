@@ -13,6 +13,8 @@ i) *Networking technologies (FTTH, Fiber, VOIP)*
 ii) *Internet troubleshooting and configuration*
 
 iii) *Communication systems and mobile network monitoring*
+
+iv) *Programming Languages: Python*
   
 # Current Projects or Coursework
 
