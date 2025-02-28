@@ -8,15 +8,19 @@ I am focused on expanding my knowledge in telecommunication systems, network tro
 
 # Technologies/Languages I'm Studying
 
-*Networking technologies (FTTH, Fiber, VOIP)*
-*Internet troubleshooting and configuration*
-*Communication systems and mobile network monitoring*
+i) *Networking technologies (FTTH, Fiber, VOIP)* 
+
+ii) *Internet troubleshooting and configuration*
+
+iii) *Communication systems and mobile network monitoring*
   
 # Current Projects or Coursework
 
-Learning Python programming to enhance problem-solving and automation skills
-Exploring Python for network automation and data analysis
-Working on small projects to apply Python in telecommunications and networking scenarios
+i) Learning Python programming to enhance problem-solving and automation skills
+
+ii) Exploring Python for network automation and data analysis
+
+iii) Working on small projects to apply Python in telecommunications and networking scenarios
 
 # How to Reach Me
 
