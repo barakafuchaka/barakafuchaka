@@ -1,5 +1,6 @@
 Hi 👋 My name is Baraka Fuchaka
 ===============================
+# Introduction 
 
 I am a student at Jomo Kenyatta University of Agriculture and Technology (JKUAT) studying Telecommunication and Information Engineering. I am a tech enthusiast with ambition to learn more on new technologies rapidly evolving and coding world. I aim to intergrate the new and upcoming technologies in everyday task to increase efficiency and quallity.
 
